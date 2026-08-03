@@ -46,22 +46,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-<!--
-Replace these with your real pinned repos. Suggested picks:
-- Your WebdriverIO + Cucumber/Gherkin BDD automation project
-- Your Telegram bot + GitHub Actions coding-roadmap system
-- Your Appium mobile test suite
-- Your REST API test case / Postman collection project
--->
-
-- 🔹 **[Project Name](https://github.com/yourusername/repo)** — one-line description of what it does and the stack used
-- 🔹 **[Project Name](https://github.com/yourusername/repo)** — one-line description of what it does and the stack used
-- 🔹 **[Project Name](https://github.com/yourusername/repo)** — one-line description of what it does and the stack used
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
